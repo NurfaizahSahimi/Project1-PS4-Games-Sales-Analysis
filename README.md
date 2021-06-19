@@ -2,8 +2,8 @@
 
 ## Directory 
 Project Motivation
-[Motivation](#Project_Motivation)
-          section_title<a name="Project Motivation"></a>
+[Motivation](#project-motivation)
+          section_title<a name="project-motivation"></a>
 
 ## Project Motivation ##
 
