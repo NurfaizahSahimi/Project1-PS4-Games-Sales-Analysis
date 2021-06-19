@@ -3,7 +3,6 @@
 ## Directory 
 Project Motivation
 [Motivation](#project-motivation)
-          section_title<a name="project-motivation"></a>
 
 ## Project Motivation ##
 
