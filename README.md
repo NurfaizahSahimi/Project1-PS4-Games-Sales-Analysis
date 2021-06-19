@@ -1,9 +1,24 @@
 # PS4 Games Sales Analysis 
 
+<details>
+           <summary>Directory</summary>
+           <p>[💪Motivation](#project-motivation)</p>
+  
+           <p>[💾Library](#library-installation)</p>
+  
+           <p>[📂Files & Description](#files-and-description)</p>
+  
+           <p>[📊Summary](#summary)</p>
+         </details>
+         
+         
 ## Directory 
 [💪Motivation](#project-motivation)
+
 [💾Library](#library-installation)
+
 [📂Files & Description](#files-and-description)
+
 [📊Summary](#summary)
 
 ## Project Motivation ##
