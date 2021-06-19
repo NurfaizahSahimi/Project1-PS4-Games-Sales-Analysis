@@ -12,6 +12,8 @@
 
 [📊Summary](#summary)
 
+[🎈Acknowledgment](#acknowledgement)
+
 ## Project Motivation ##
 
 The motivation to complete this project is to provide answer based on data to these questions : 
@@ -101,4 +103,13 @@ All the questions asked already answered after using data analysis method to fur
     - *Assassin's Creed Origins*
 
 
+## Acknowledgement ##
+Special thanks to this website for their existence, really help me to conduct data analysis for this project with providing lesson, dataset and example :  
 
+✅ [Udacity](https://www.udacity.com/ "Udacity")
+
+✅ [Kaggle](https://www.kaggle.com/ "Kaggle")
+
+✅ [StackOverflow](https://www.stackoverflow.com/ "StackOverflow")
+
+✅ [GeeksforGeeks](https://www.geeksforgeeks.org// "GeeksforGeeks")
