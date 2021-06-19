@@ -9,13 +9,13 @@
 ## Project Motivation ##
 
 The motivation to complete this project is to provide answer based on data to these questions : 
-[] Publisher
+- [ ] Publisher
 > Question 1 : Which publisher have publish most games for PS4 ?
 > Question 2 : What is the top 5 of high earn publisher ?
-[] Sales
+- [ ] Sales
 > Question 1 : What is the average of top selling games per year ?
 > Question 2 : Which PS4 game's genre score the highest sales ?
-[] Games
+- [ ] Games
 > Question 1 : What are top 5 oldest PS4 games ?
 
 
