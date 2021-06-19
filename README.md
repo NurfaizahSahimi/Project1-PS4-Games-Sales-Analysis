@@ -1,4 +1,9 @@
-# PS4 Games Sales Analysis #
+# PS4 Games Sales Analysis 
+
+## Directory 
+Project Motivation
+[Motivation](#Project_Motivation)
+          section_title<a name="Project Motivation"></a>
 
 ## Project Motivation ##
 
@@ -8,7 +13,7 @@ The motivation to complete this project is to answer these questions
 * Question 3 : Which PS4 game's genre score the highest sales ?
 
 
-<p align="left">Library Used</p>
+## Library Installation ##
 
 
 
