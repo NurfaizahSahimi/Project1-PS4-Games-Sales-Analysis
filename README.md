@@ -1,5 +1,14 @@
-# World Happiness Project
+# PS4 Games Sales Analysis
 
-👍 Testing whether or not this working
+<p align="center">Project Motivation</p>
 
-🌹 Motivation : To complete my nanodegree program as soon as possible (lol kidding)
+The motivation to complete this project is to answer these questions 
+* Question 1 : Which publisher have publish most games for PS4 ?
+* Question 2 : What is the average of top selling games per year ?
+* Question 3 : Which PS4 game's genre score the highest sales ?
+
+
+<p align="center">Library Used</p>
+
+
+
