@@ -1,7 +1,8 @@
 # PS4 Games Sales Analysis 
 
 <details>
-           <summary>Directory</summary>
+           <summary> ## Directory ##</summary>
+           
 [💪Motivation](#project-motivation)
 
 [💾Library](#library-installation)
