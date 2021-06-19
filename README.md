@@ -68,11 +68,11 @@ Matplotlib-inline | `pip3 install matplotlib-inline` | %matplotlib inline is a m
    
 2. Data Preparation
 
-   During data preparation, we eliminate all row with null value for Publisher column since the row will become useless once the Publisher column is null. This process is also      known as data cleaning.
+   During data preparation, I eliminate all row with null value for Publisher column since the row will become useless once the Publisher column is null. This process is also      known as data cleaning.
    
 3. Deployment
    
-   All deployment and working codes is nicely prepared in jupyter notebook. We also use jupyter notebook to output chart and graph for better visualization. 
+   All deployment and working codes is nicely prepared in jupyter notebook. I also use jupyter notebook to output chart and graph for better visualization. A blog post regarding    this analysis was published using [Medium](https://nurfaizahbtsahimi.medium.com/what-publisher-should-learn-from-ps4-games-sales-7eed5e38ce85 "Medium").
 
 
 ## Summary ##
