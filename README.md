@@ -2,14 +2,15 @@
 
 <details>
            <summary>Directory</summary>
-           <p>[💪Motivation](#project-motivation)</p>
-  
-           <p>[💾Library](#library-installation)</p>
-  
-           <p>[📂Files & Description](#files-and-description)</p>
-  
-           <p>[📊Summary](#summary)</p>
-         </details>
+[💪Motivation](#project-motivation)
+
+[💾Library](#library-installation)
+
+[📂Files & Description](#files-and-description)
+
+[📊Summary](#summary)
+
+</details>
          
          
 ## Directory 
