@@ -1,18 +1,27 @@
 # PS4 Games Sales Analysis 
 
 ## Directory 
-Project Motivation
 [Motivation](#project-motivation)
+[Library](#library-installation)
+[Files & Description](#files-and-description)
+[Summary](#summary)
 
 ## Project Motivation ##
 
-The motivation to complete this project is to answer these questions 
-* Question 1 : Which publisher have publish most games for PS4 ?
-* Question 2 : What is the average of top selling games per year ?
-* Question 3 : Which PS4 game's genre score the highest sales ?
+The motivation to complete this project is to provide answer based on data to these questions : 
+[] Publisher
+> Question 1 : Which publisher have publish most games for PS4 ?
+> Question 2 : What is the top 5 of high earn publisher ?
+[] Sales
+> Question 1 : What is the average of top selling games per year ?
+> Question 2 : Which PS4 game's genre score the highest sales ?
+[] Games
+> Question 1 : What are top 5 oldest PS4 games ?
 
 
 ## Library Installation ##
 
 
+## Files and Description ##
 
+## Summary ##
