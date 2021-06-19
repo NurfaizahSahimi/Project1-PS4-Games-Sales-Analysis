@@ -1,6 +1,6 @@
-# PS4 Games Sales Analysis
+# PS4 Games Sales Analysis #
 
-<p align="center">Project Motivation</p>
+## Project Motivation ##
 
 The motivation to complete this project is to answer these questions 
 * Question 1 : Which publisher have publish most games for PS4 ?
@@ -8,7 +8,7 @@ The motivation to complete this project is to answer these questions
 * Question 3 : Which PS4 game's genre score the highest sales ?
 
 
-<p align="center">Library Used</p>
+<p align="left">Library Used</p>
 
 
 
