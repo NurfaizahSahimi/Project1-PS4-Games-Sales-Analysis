@@ -64,6 +64,7 @@ Pandas_profiling  | `pip3 install pandas-profiling`  | Quick explarotary data an
 ## Data Preparation ##
 
 1. Business Understanding
+
    Understand the business or need to know for this project in order to achieve the goal, which is provide answers to questions asked in porject motivation.
 
 2. Data Understanding
