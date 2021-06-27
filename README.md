@@ -42,7 +42,7 @@ Matplotlib        | `pip3 install matplotlib`        | Matplotlib is a cross-pla
 Sklearn           | `pip3 install sklearn`           | Sklearn library contains a lot of efficient tools for machine learning and statistical modeling 
 Seaborn           | `pip3 install seaborn`           | Open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis.
 Matplotlib-inline | `pip3 install matplotlib-inline` | %matplotlib inline is a magic command for IPython that allows you to add plots to the browser interface
-Pandas_profiling  | `pip3 install pandas-profiling   | Quick explarotary data analysis with few codes
+Pandas_profiling  | `pip3 install pandas-profiling`  | Quick explarotary data analysis with few codes
 
 ## Files and Description ##
 
