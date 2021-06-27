@@ -63,16 +63,19 @@ Pandas_profiling  | `pip3 install pandas-profiling`  | Quick explarotary data an
 
 ## Data Preparation ##
 
-1. Data Understanding
+1. Business Understanding
+   Understand the business or need to know for this project in order to achieve the goal, which is provide answers to questions asked in porject motivation.
+
+2. Data Understanding
 
    The project begun by trying to understand the data set and gain much knowledge about data, the curiosity the data will satisfy, its content and its type.
    Exploration of the dataset is done when different queries are formed, to find the relationship between each column, and gain further insight regardings questions asked above.
    
-2. Data Preparation
+3. Data Preparation
 
    During data preparation, I eliminate all row with null value for Publisher column since the row will become useless once the Publisher column is null. This process is also      known as data cleaning.
    
-3. Data visualization
+4. Data visualization
 
    Data visualization gives better idea on data representation. All deployment, visualization, and working codes is nicely prepared in jupyter notebook. I also use jupyter notebook to output chart and graph for better visualization. A blog post regarding    this analysis was published using [Medium](https://nurfaizahbtsahimi.medium.com/what-publisher-should-learn-from-ps4-games-sales-7eed5e38ce85 "Medium").
    
