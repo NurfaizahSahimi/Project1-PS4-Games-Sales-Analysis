@@ -16,17 +16,18 @@
 
 ## Project Motivation ##
 
+As a dedicated console player, I have interest or need to know more about the game published for any console. When I came across this dataset on Kaggle, I have few questions in mind that require me to seek for answers. This drives me to complete this project. 
+
 The motivation to complete this project is to provide answer based on data to these questions : 
 - [ ] Publisher
-  > Question 1 : Which publisher have publish most games for PS4 ?
+  > Question 1 : Which publisher have publish most games for PS4 (based on genre) ?
   > 
-  > Question 2 : What is the top 5 of high earn publisher ?
+  > Question 2 : What is the ranking for the publisher (based on total sales) ?
 - [ ] Sales
-  > Question 1 : What is the average sales of top 10 selling games per year ?
-  >
-  > Question 2 : Which PS4 game's genre score the highest sales ? And which country buy most of it ?
+  > Question 3 : Which PS4 game's genre published the most ? And during which sales its selling like hot cakes ?
+  > 
 - [ ] Games
-  > Question 1 : What are top 5 popular PS4 games published by Ubisoft ?
+  > Question 4 : Which genre game has been released the most in a single year?
 
 
 ## Library and Installation ##
@@ -41,6 +42,7 @@ Matplotlib        | `pip3 install matplotlib`        | Matplotlib is a cross-pla
 Sklearn           | `pip3 install sklearn`           | Sklearn library contains a lot of efficient tools for machine learning and statistical modeling 
 Seaborn           | `pip3 install seaborn`           | Open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis.
 Matplotlib-inline | `pip3 install matplotlib-inline` | %matplotlib inline is a magic command for IPython that allows you to add plots to the browser interface
+Pandas_profiling  | `pip3 install pandas-profiling   | Quick explarotary data analysis with few codes
 
 ## Files and Description ##
 
@@ -70,9 +72,11 @@ Matplotlib-inline | `pip3 install matplotlib-inline` | %matplotlib inline is a m
 
    During data preparation, I eliminate all row with null value for Publisher column since the row will become useless once the Publisher column is null. This process is also      known as data cleaning.
    
-3. Deployment
+3. Data visualization
+
+   Data visualization gives better idea on data representation. All deployment, visualization, and working codes is nicely prepared in jupyter notebook. I also use jupyter notebook to output chart and graph for better visualization. A blog post regarding    this analysis was published using [Medium](https://nurfaizahbtsahimi.medium.com/what-publisher-should-learn-from-ps4-games-sales-7eed5e38ce85 "Medium").
    
-   All deployment and working codes is nicely prepared in jupyter notebook. I also use jupyter notebook to output chart and graph for better visualization. A blog post regarding    this analysis was published using [Medium](https://nurfaizahbtsahimi.medium.com/what-publisher-should-learn-from-ps4-games-sales-7eed5e38ce85 "Medium").
+   
 
 
 ## Summary ##
@@ -82,25 +86,21 @@ All the questions asked already answered after using data analysis method to fur
   - Answer : Most of PS4 games was published by Namco Bandai Games with count of 56 games.
 
 
-- Question 2 : What is the top 5 of high earn publisher ?
+- Question 2 : What is the ranking for the publisher (based on total sales) ?
   - Answer : Top 5 high earn publishers are Activision, Ubisoft, Electronic Arts, Sony Interactive Entertainment and EA Sports with minimum earnings of 47.55 millions.
   
 - [X] Sales
-- Question 1 : What is the average sales of top 10 selling games per year ?
-  - Answer : Average sales of top 10 selling games per year range between 1.41 millions to 2.77 millions.
+- Question 3 : Which PS4 game's genre published the most ? And during which sales its selling like hot cakes ?
+  - Answer : Action genre is the most published games genre and mostly sold during Europe Sales.
 
-
-- Question 2 : Which PS4 game's genre score the highest sales ? And which country buy most of it ?
-  - Answer : Genre Action score the highest sales for PS4 games. The highest sales of this genre was contributed during Europe Sales.
    
 - [X] Games
-- Question 1 : What are top 5 popular PS4 games published by Ubisoft ?
-  - Answer : The top 5 popular games published by Ubisoft are :
-    - *Tom Clancy's The Division*
-    - *Tom Clancy's Rainbow Six: Siege*
-    - *Watch Dogs*
-    - *Assassin's Creed: Unity*
-    - *Assassin's Creed Origins*
+- Question 4 : Which genre game has been released the most in a single year?
+  Based on year 
+  - 2013 : Sports
+  - 2014 ➡ 2018 : Action
+  - 2019 : Shooter
+  - 2020 : Misc
 
 
 ## Acknowledgement ##
